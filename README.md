@@ -28,8 +28,8 @@ For training I used
 * Optimizer: Adam - torch.nn recommends this or softmax optimizers
 
 ## Transfer Learning
-For the Transfer learning method, the initial steps along with the training were the same as the **Custom Neural Net Training** process
-Utilized the aid of mrdbourke for visualization 'https://github.com/mrdbourke/pytorch-deep-learning/'
+For the Transfer learning method, the initial steps along with the training were the same as the **Custom Neural Net Training** process /n
+Utilized the aid of mrdbourke for visualization https://github.com/mrdbourke/pytorch-deep-learning/
 ### Model used
 For the training, the model that was used was the Efficient_Net_B1 model. Overall ended with around an 80 percent accuracy but still leaves a lot to be desired
 <img width="911" alt="image" src="https://github.com/ShrishChou/TennisShotDetection/assets/91390142/5b531232-7451-48ff-ae7e-cababbedfad1">
